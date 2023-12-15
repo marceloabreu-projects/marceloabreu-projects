@@ -1,7 +1,7 @@
 ### WELCOME!
 
 - 🔭 I’m currently working on **Full Stack Projects**
-- 🌱 I’m currently learning **Spring Boot + Angular**
+- 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **Backend development projects**
 - 💬 Ask me about **Healthy Lifestyle & Technology**
 - 📫 How to reach me: **marceloabr.work@gmail.com**
